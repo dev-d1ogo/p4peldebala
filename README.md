@@ -1,16 +1,21 @@
-    Hello ! I'm, Diogo Eduardo 👋
-    📚 Studying: JS, TS, HTML, CSS and REACT
-    🖥️ Pretensions: be a front end developer
-    😀 Pronoun: He/Him
-    
+## Hello ! I'm, Diogo Eduardo 👋
+<br>
+
+- 📚 Studying: JS, TS, HTML, CSS and REACT
+- 🖥️ Pretensions: be a front end developer
+- 😀 Pronoun: He/Him
+
+<br>
+
+
 <div>
     <a href="https://github.com/p4peldebala">
-    <img  style = "padding: 10 10px" height ="180em" src = "https://github-readme-stats.vercel.app/api?username=p4peldebala&show_icons=true&theme=dracula">
+    <img  height ="180em" src = "https://github-readme-stats.vercel.app/api?username=p4peldebala&show_icons=true&theme=dracula">
     <img height ="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=p4peldebala&layout=compact&theme=dracula">
-    
 </div>
+<br>
 
-### Tecnologias utilizadas 🖥️
+### 🖥️ Tecnologias utilizadas 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +28,12 @@
 </div>
 <br>
 
+### 📱 Contacts 
+<br>
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](href=mailto:dev.juniordiogo@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]("https://wa.me/5561982398967")
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]("https://www.instagram.com/p4peldebala/")
+
+
 
