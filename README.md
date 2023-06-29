@@ -1,21 +1,30 @@
-### Olá ! Eu sou Diogo Eduardo 👋
-<br>
+    Hello ! I'm, Diogo Eduardo 👋
+    📚 Studying: JS, TS, HTML, CSS and REACT
+    🖥️ Pretensions: be a front end developer
+    😀 Pronoun: He/Him
+
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](href=mailto:dev.juniordiogo@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]("https://wa.me/5561982398967")
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]("https://www.instagram.com/p4peldebala/")
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p4peldebala&show_icons=true&theme=dracula)
+
+<div>
+    <a href="https://github.com/p4peldebala">
+    <img  style = "padding: 10 10px" height ="180em" src = "https://github-readme-stats.vercel.app/api?username=p4peldebala&show_icons=true&theme=dracula">
+    <img height ="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=p4peldebala&layout=compact&theme=dracula">
+    
+</div>
 
 ### Tecnologias utilizadas 🖥️
 
 <div style="display: inline_block"><br>
-    <img align = "center" alt="badge html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align = "center" alt="badge css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align = "center" alt="badge javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align = "center" alt="badge react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align = "center" alt="badge typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
+  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
 
