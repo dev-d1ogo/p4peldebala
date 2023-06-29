@@ -15,7 +15,7 @@
 </div>
 <br>
 
-### 🖥️ Tecnologias utilizadas 
+### 🖥️ Used Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
