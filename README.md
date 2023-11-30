@@ -1,8 +1,8 @@
 ## Hello ! I'm, Diogo Eduardo 👋
 <br>
 
-- 📚 Studying: JS, TS, HTML, CSS and REACT
-- 🖥️ Pretensions: be a front end developer
+- 📚 Studying: JS, TS, REACT, THAILWIND CSS, NODE
+- 🖥️ Pretensions: be a front/fullstack end developer
 - 😀 Pronoun: He/Him
 
 <br>
