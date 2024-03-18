@@ -1,7 +1,7 @@
 ## Hello ! I'm, Diogo Eduardo 👋
 <br>
 
-- 📚 Studying: JS, TS, REACT, THAILWIND CSS, NODE
+- 📚 Studying: Java, SQL, NoSQL, Node, Typescript, React and NextJS
 - 🖥️ Pretensions: be a frontend/fullstack  developer
 - 😀 Pronoun: He/Him
 
