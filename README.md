@@ -2,7 +2,7 @@
 <br>
 
 - 📚 Studying: JS, TS, REACT, THAILWIND CSS, NODE
-- 🖥️ Pretensions: be a front/fullstack end developer
+- 🖥️ Pretensions: be a frontend/fullstack  developer
 - 😀 Pronoun: He/Him
 
 <br>
