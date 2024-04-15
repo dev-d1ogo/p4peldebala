@@ -2,7 +2,7 @@
 <br>
 
 - 📚 Estudando: Java, SQL, NoSQL, Node, Typescript, React e NextJS
-- 🖥️ Pretensôes: Ser um grande desenvolvedor fullstack
+- 🖥️ Pretensões: Ser um grande desenvolvedor fullstack
 - 😀 Pronomes: Ele/Dele
 
 <br>
